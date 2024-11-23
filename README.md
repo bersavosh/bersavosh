@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an astrophysicist and data scientist working on understanding black holes in our Galaxy and also working on statistical methods that can help us.
+You might find some repos of interest in my [Github stars lists](https://github.com/bersavosh?tab=stars) which I generally try to keep organized.
